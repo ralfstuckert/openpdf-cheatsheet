@@ -30,11 +30,13 @@ Chunks are the smallest units for text with a given font, color etc. Paragraphs 
 
 ## Tables
 * [Tables](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/objects/tables/MyFirstTable.java) [![PDF](icons/icons8-pdf-32.png)](pdf/MyFirstTable.pdf)
-  Find many more examples demonstating padding, borders, colors, images, nested Tables in the [same package](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/objects/tables)
+
+Find many more examples demonstating padding, borders, colors, images, nested Tables in the [same package](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/objects/tables)
 
 ## Images
 * [Images](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/objects/images/Images.java) [![PDF](icons/icons8-pdf-32.png)](pdf/Images.pdf)
-  Find many more examples demonstating transformation, filter, alignment, etc in the [same package](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/objects/images)
+
+* Find many more examples demonstating transformation, filter, alignment, etc in the [same package](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/objects/images)
 
 ## Column Layout
 Allows you to organize content in columns like in a newspaper or a table
@@ -73,6 +75,7 @@ Be aware that you need to add bouncycastle for encryption
 ## Forms
 * [Create Form](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/forms/SimpleRegistrationForm.java) [![PDF](icons/icons8-pdf-32.png)](pdf/SimpleRegistrationForm.pdf)
 * [Fill a form](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/forms/fill/Register.java) [![PDF](icons/icons8-pdf-32.png)](pdf/registered.pdf)
+
 Find many more examples demonstating buttons, combos, etc in the [same package](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/forms)
 
 ## PDFA
