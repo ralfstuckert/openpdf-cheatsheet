@@ -80,7 +80,7 @@ Find many more examples demonstating buttons, combos, etc in the [same package](
 
 ## PDFA
 * [Create PDF/A](https://github.com/LibrePDF/OpenPDF/blob/master/pdf-toolbox/src/test/java/com/lowagie/examples/conformance/PdfA1B.java) [![PDF](icons/icons8-pdf-32.png)](pdf/PdfA1B.pdf)
-* [Chunks](https://github.com/LibrePDF/OpenPDF/blob/master/openpdf/src/test/java/com/lowagie/text/validation/PDFValidationTest.java) 
+* [Validate PDF/A](https://github.com/LibrePDF/OpenPDF/blob/master/openpdf/src/test/java/com/lowagie/text/validation/PDFValidationTest.java) 
 
 
 
